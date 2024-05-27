@@ -22,10 +22,10 @@ repository               : "kcolombe/kcolombe.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Kenneth Colombe"
+  name             : # "Kenneth Colombe"
   pronouns         : "he/him"  
   bio              : "As a PhD student in Data Science & Sports Economics at Universität Tübingen, I aspire to use the principles of Behavioral Science to bring a more academically rigorous approach to decision-making in professional sports. Also, to use sports data to investigate general decision-making phenomena outside the boundaries of competition."
-  location         : "Tübingen, Baden-Württemberg, Germany"
+  location         : "Tübingen, Germany"
   employer         : "Eberhard Karls Universität Tübingen"
   URL              : "https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/department-of-social-sciences/sports-science/institute/departments/sport-economics-sport-management-media-research/team/kenneth-colombe/"
   email            : # "" 
