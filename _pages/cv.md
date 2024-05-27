@@ -11,35 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Data Science & Sports Economics, Eberhard Karls Universität Tübingen, 2027 (expected)
+  * Dissertation topic: Behavioral Biases in Sport
+* M.S. in Human Decision Science, Maastricht University School of Business and Economics, 2023
+  * Thesis topic: Public discourse
+* B.A. in Economics (behavioral focus), Connecticut College, 2020
+  * Thesis topic: Sunk costs in the National Basketball Association
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Current: Doctoral Researcher
+  * Eberhard Karls Universität Tübingen
+  * Dissertation topic: Behavioral Biases in Sport
+ 
+* Current: English Language Teacher
+  * Deutsch-Amerikanisches Institut Tübingen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2022 - January 2023: Praktikant
+  * iNudgeyou (København, DK)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Behavioural Science Internship (remote)
+  * Cowry Consulting (London, UK)
+
+* December 2020 - May 2021: Production Trainee - Hustle Stats
+  * National Basketball Association (Secaucus, NJ)
+ 
+* Summer 2020: Intern
+  *Priority Sports & Entertainment (Chicago, IL)
+ 
+* May 2019 - October 2019: Basketball Intern
+  * Connecticut Sun (Uncasville, CT)
+
+* May 2019 - October 2019: Basketball Intern
+  * Connecticut Sun (Uncasville, CT)
+ 
+* December 2018 - May 2019: Basketball Operations Intern
+  * Indiana Pacers (Indianapolis, IN)
+ 
+* August 2016 - May 2020: Men's Varsity Basketball Assistant Coach
+  * Connecticut College (New London, CT)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Stata
+* R
+* Microsoft Office
 
 Publications
 ======
@@ -59,6 +76,22 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards and Appointments
 ======
-* Currently signed in to 43 different slack teams
+* Andrew H. Chait Award: Outstanding Service & Commitment
+  * Awarded by Connecticut College's Athletic Department (2020)
+
+* Connecticut College Class of 2020 President
+  * Elected by the student body (2019 - 2020)
+ 
+* Student Representative on the Connecticut College Finance Committee
+  * Appointed by the College President (2019 - 2020)
+ 
+* Student Representative on Athletic Director Search Committee
+  * Appointed by the Connecticut College Board (2019)
+
+* Paul M. Rosenfield '67 Award: Strength of Character Through Courage & Humor
+  * Voted by Pomfret Administration (2016)
+  * First-ever post-graduate recipient
+
+  
