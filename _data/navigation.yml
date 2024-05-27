@@ -8,15 +8,15 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
+
+   #- title: "Portfolio"
+     #url: /portfolio/
         
    - title: "News"
      url: /year-archive/
     
   - title: "CV"
-    url: "https://www.linkedin.com/in/kenneth-colombe/overlay/1635530074176/single-media-viewer/?profileId=ACoAACCOS14BDLlqv1qqKcqMnRNBf4QyT4Y9vy4"
+    url: /cv/ 
     
   - title: "Guide"
     url: /markdown/
