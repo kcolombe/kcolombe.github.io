@@ -21,7 +21,7 @@ repository               : "kcolombe/kcolombe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : # "Kenneth Colombe"
   pronouns         : "he/him"  
   bio              : "As a PhD student in Data Science & Sports Economics at Universität Tübingen, I aspire to use the principles of Behavioral Science to bring a more academically rigorous approach to decision-making in professional sports. Also, to use sports data to investigate general decision-making phenomena outside the boundaries of competition."
