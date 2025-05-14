@@ -1,5 +1,6 @@
 ---
 title: "Advanced Seminar (MS): Managing Sports Demand"
+layout: single
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/MSD/
