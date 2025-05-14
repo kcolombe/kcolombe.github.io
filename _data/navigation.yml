@@ -20,8 +20,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
   - title: "Online Economics Learning"
     url: /online-econ-learning/
