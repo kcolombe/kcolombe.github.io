@@ -1,7 +1,7 @@
 ---
 title: "Advanced Seminar (MS): Managing Sports Demand"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/MSD
 venue: "Universität Tübingen"
 date: 2023-2025
