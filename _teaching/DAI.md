@@ -1,5 +1,6 @@
 ---
 title: "Data Analysis with Generative AI"
+layout: single
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/DAI/
