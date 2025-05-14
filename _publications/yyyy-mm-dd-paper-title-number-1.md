@@ -4,7 +4,7 @@ collection:
 category: 
 permalink: 
 excerpt:
-date: 0000-00-00
+date: 2025-01-01
 venue:
 slidesurl: 
 paperurl: 
