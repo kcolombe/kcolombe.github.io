@@ -1,5 +1,6 @@
 ---
 title: "Advanced Seminar (MS): Behavioral Biases in Sports"
+layout: single
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/BBS/
