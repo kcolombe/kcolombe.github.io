@@ -1,10 +1,10 @@
 ---
-title: ""
+title:
 collection: 
 category: 
 permalink: 
 excerpt:
-date:
+date: 0000-00-00
 venue:
 slidesurl: 
 paperurl: 
