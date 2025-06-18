@@ -1,10 +1,10 @@
 # Leaflet cluster map of talk locations
 #
-# Run this from the _talks/ directory, which contains .md files of all your
-# talks. This scrapes the location YAML field from each .md file, geolocates it
-# with geopy/Nominatim, and uses the getorg library to output data, HTML, and
-# Javascript for a standalone cluster map. This is functionally the same as the
-# #talkmap Jupyter notebook.
+# Run this from the repository root (the directory containing the `_talks/`
+# folder). This script scrapes the location YAML field from each talk's markdown
+# file, geolocates it with `geopy/Nominatim`, and uses the getorg library to
+# output data, HTML, and Javascript for a standalone cluster map. This is
+# functionally the same as the `talkmap.ipynb` notebook.
 import frontmatter
 import glob
 import getorg
@@ -42,8 +42,12 @@ for file in g:
 
     # Geocode the location and report the status
     try:
-        location_dict[description] = geocoder.geocode(location, timeout=TIMEOUT)
-        print(description, location_dict[description])
+        loc = geocoder.geocode(location, timeout=TIMEOUT)
+        if loc is not None:
+            location_dict[description] = loc
+            print(description, loc)
+        else:
+            print(f"Warning: geocode returned no result for {location}")
     except ValueError as ex:
         print(f"Error: geocode failed on input {location} with message {ex}")
     except GeocoderTimedOut as ex:
